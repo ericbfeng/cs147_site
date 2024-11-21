@@ -1,4 +1,4 @@
- .u-section-1 {
+.u-section-1 {
   background-image: url("images/ggh.jpg");
   background-position: 50% 50%;
 }
@@ -154,10 +154,10 @@
   .u-section-1 .u-image-3 {
     margin-left: 60px;
   }
-}.u-section-2 .u-sheet-1 {
+}
+.u-section-2 .u-sheet-1 {
   min-height: 655px;
 }
-
 
 .u-section-2 .u-layout-wrap-1 {
   margin-top: 120px;
@@ -287,7 +287,8 @@
     height: 236px;
     width: 340px;
   }
-}.u-section-3 .u-sheet-1 {
+}
+.u-section-3 .u-sheet-1 {
   min-height: 795px;
 }
 
@@ -482,7 +483,8 @@
   .u-section-3 .u-list-1 {
     width: 340px;
   }
-} .u-section-4 {
+}
+.u-section-4 {
   background-image: none;
 }
 
