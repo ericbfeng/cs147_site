@@ -1,6 +1,10 @@
 .u-section-1 {
-  background-image: url("images/ggh.jpg");
+  background-image: none;
   background-position: 50% 50%;
+}
+
+.header-center {
+  text-align: center;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -28,17 +32,18 @@
 }
 
 .u-section-1 .u-text-1 {
-  text-align: left;
+  text-align: center;
   margin: 0 61px 0 0;
 }
 
 .u-section-1 .u-text-2 {
   font-weight: 700;
   font-size: 1.25rem;
+  text-align: center;
   text-transform: none;
   letter-spacing: normal;
   font-family: Roboto, sans-serif;
-  margin: 51px 0 0 61px;
+  margin: 51px 61px 0 0;
 }
 
 .u-section-1 .u-layout-cell-2 {
