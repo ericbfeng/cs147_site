@@ -18157,7 +18157,7 @@ div.u-video,
   text-decoration: none !important;
   padding-top: 4px;
   padding-bottom: 4px;
-  font-size: calc(1em + 8px);
+  font-size: calc(1em + 20px);
 }
 .menu-collapse .u-nav-link svg {
   min-width: 1em;
