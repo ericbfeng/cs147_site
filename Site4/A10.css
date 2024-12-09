@@ -1,8 +1,22 @@
 .button-container {
   display: flex;
   gap: 20px;
-  padding: 20px;
+  padding: 10px;
   margin-top: 65px;
+  justify-content: center;
+}
+
+.button-container-middle {
+  display: flex;
+  gap: 20px;
+  padding: 10px;
+  justify-content: center;
+}
+
+.button-container-bottom {
+  display: flex;
+  gap: 20px;
+  padding: 10px;
   margin-bottom: -25px;
   justify-content: center;
 }
