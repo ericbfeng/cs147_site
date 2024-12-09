@@ -1,3 +1,27 @@
+.button-container {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  justify-content: center;
+}
+
+.custom-button {
+  padding: 12px 24px;
+  border: none;
+  border-radius: 16px;
+  background-color: #3498db;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.custom-button:hover {
+  background-color: #2980b9;
+}
+
 .u-section-1 .u-sheet-1 {
   min-height: 986px;
 }
